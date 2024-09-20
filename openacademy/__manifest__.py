@@ -4,7 +4,8 @@
     "author": "MVannerom",
     "depends": ["base"],
     "website": "https://www.odoo.com",
-    "data": [],
+    "data": [
+        "security/ir.model.access.csv",
+    ],
     "license": "OEEL-1",
 }
-
